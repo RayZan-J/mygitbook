@@ -37,7 +37,7 @@
 | [用户流量统计](http://doc.bokecc.com/index.php?c=content&a=list&catid=271) | [视频流量统计](http://doc.bokecc.com/index.php?c=content&a=list&catid=272) | [获获取视频字幕下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=289) |
 | [批量获取视频字幕下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=290) | [搜索视频字幕信息](http://doc.bokecc.com/index.php?c=content&a=list&catid=291) | [搜索用户字幕信息](http://doc.bokecc.com/index.php?c=content&a=list&catid=292) |
 | [获取用户自定义参数播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=293) | [获取视频自定义参数播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=294) | [获取视频播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=295) |
-| [获取用户播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=315) | [获取视频原片下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=322) |   |
+| [获取用户播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=315) | [获取视频原片下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=322) | </br>  |
 
   
 
@@ -52,17 +52,13 @@
 
 ### 播放器API
 
-| [接口说明](http://doc.bokecc.com/vod/dev/PlayerAPI/player01/) | [配置说明](http://doc.bokecc.com/vod/dev/PlayerAPI/player02/)  | [插件介绍](http://doc.bokecc.com/vod/dev/PlayerAPI/player03/) |
-| :--- | :--- | :--- |
-| [字幕功能](http://doc.bokecc.com/index.php?c=content&a=list&catid=316) | [弹幕功能](http://doc.bokecc.com/index.php?c=content&a=list&catid=317) | [跑马灯](http://doc.bokecc.com/index.php?c=content&a=list&catid=318) |
-| [问答功能](http://doc.bokecc.com/index.php?c=content&a=list&catid=319) |   |   |
+<table width="900" style="width:649px;"><tbody><tr><td><a href="http://doc.bokecc.com/vod/dev/PlayerAPI/player01/" target="_self">接口说明</a></td><td><a href="http://doc.bokecc.com/vod/dev/PlayerAPI/player02/" target="_self"><span id="_baidu_bookmark_start_0" style="display:none;line-height:0px;">‍</span>配置说明</a><br></td><td><a href="http://doc.bokecc.com/vod/dev/PlayerAPI/player03/" target="_self">插件介绍</a></td></tr><tr><td colspan="1" rowspan="1"><a href="http://doc.bokecc.com/index.php?c=content&amp;a=list&amp;catid=316" target="_self" title="问答功能">字幕功能</a></td><td colspan="1" rowspan="1"><a href="http://doc.bokecc.com/index.php?c=content&amp;a=list&amp;catid=317" target="_self" title="弹幕功能">弹幕功能</a></td><td colspan="1" rowspan="1"><a href="http://doc.bokecc.com/index.php?c=content&amp;a=list&amp;catid=318" target="_self" title="跑马灯">跑马灯</a></td></tr><tr><td colspan="1" rowspan="1"><a href="http://doc.bokecc.com/index.php?c=content&amp;a=list&amp;catid=319" target="_self" title="问答功能">问答功能</a></td><td colspan="1" rowspan="1"><br></td><td colspan="1" rowspan="1"><br></td></tr></tbody></table>
 
 ###  
 
 ### SDK-iOS
 
-| [播放控制](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS02/) | [视频上传](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS03/) | [视频下载](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS04/) 
-| :--- | :--- | :--- |
+<table width="900" style="width:649px;"><tbody><tr><td><a href="http://doc.bokecc.com/vod/dev/SDK-iOS/iOS02/" target="_self">播放控制</a></td><td><a href="http://doc.bokecc.com/vod/dev/SDK-iOS/iOS03/" target="_self">视频上传</a></td><td><a href="http://doc.bokecc.com/vod/dev/SDK-iOS/iOS04/" target="_self">视频下载</a></td></tr></tbody></table>
 
 
 
@@ -71,8 +67,7 @@
 
 ### SDK-Android
 
-| [视频上传](http://doc.bokecc.com/vod/dev/SDK-Android/Android03/)  | [视频下载](http://doc.bokecc.com/vod/dev/SDK-Android/Android04/)  | [视频播放](http://doc.bokecc.com/vod/dev/SDK-Android/Android02/)
-| :--- | :--- | :--- |
+<table width="900" style="width:649px;"><tbody><tr><td><a href="http://doc.bokecc.com/vod/dev/SDK-Android/Android03/" target="_self">视频上传</a><br></td><td><a href="http://doc.bokecc.com/vod/dev/SDK-Android/Android04/" target="_self">视频下载</a><br></td><td><a href="http://doc.bokecc.com/vod/dev/SDK-Android/Android02/" target="_self">视频播放</a><br></td></tr></tbody></table>
 
 
 
