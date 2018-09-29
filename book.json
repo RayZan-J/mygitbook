@@ -12,9 +12,7 @@
             "twitter": null,
             "weibo": null
         },
-        "sidebar": {
-            "CC DOC": "doc.bokecc.com"
-        }
+        "sidebar": {}
     },
     "output": null,
     "pdf": {
