@@ -10,6 +10,8 @@
 * [导航2](dao-hang-2.md)
 * [使用手册](shi-yong-shou-ce.md)
   * [快速入门-视频教程](shi-yong-shou-ce/kuai-su-ru-95e8-shi-pin-jiao-cheng.md)
+  * [视频管理](shi-yong-shou-ce/shi-pin-guan-li.md)
+    * [视频上传](shi-yong-shou-ce/shi-pin-guan-li/shi-pin-shang-chuan.md)
 * [安装](chapters/2.md)
 * [介绍](chapters/1.md)
 * [详情](xiang-qing.md)
