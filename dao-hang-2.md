@@ -44,7 +44,7 @@
 
 ### 上传API
 
-| [FLASH视频上传](http://doc.bokecc.com/vod/dev/uploadAPI/upload01/)  | [断点续传](http://doc.bokecc.com/vod/dev/uploadAPI/upload02/)  |
+| [FLASH视频上传](http://doc.bokecc.com/vod/dev/uploadAPI/upload01/)  | [断点续传](http://doc.bokecc.com/vod/dev/uploadAPI/upload02/)  
 | :--- | :--- |
 
 
@@ -62,7 +62,7 @@
 
 ### SDK-iOS
 
-| [播放控制](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS02/) | [视频上传](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS03/) | [视频下载](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS04/) |
+| [播放控制](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS02/) | [视频上传](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS03/) | [视频下载](http://doc.bokecc.com/vod/dev/SDK-iOS/iOS04/) 
 | :--- | :--- | :--- |
 
 
@@ -72,7 +72,7 @@
 
 ### SDK-Android
 
-| [视频上传](http://doc.bokecc.com/vod/dev/SDK-Android/Android03/)  | [视频下载](http://doc.bokecc.com/vod/dev/SDK-Android/Android04/)  | [视频播放](http://doc.bokecc.com/vod/dev/SDK-Android/Android02/)  |
+| [视频上传](http://doc.bokecc.com/vod/dev/SDK-Android/Android03/)  | [视频下载](http://doc.bokecc.com/vod/dev/SDK-Android/Android04/)  | [视频播放](http://doc.bokecc.com/vod/dev/SDK-Android/Android02/)
 | :--- | :--- | :--- |
 
 
