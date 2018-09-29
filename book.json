@@ -1,0 +1,149 @@
+{
+    "author": "zll",
+    "description": "This is a sample book created by gitbook",
+    "extension": null,
+    "generator": "site",
+    "isbn": "",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "CC DOC": "doc.bokecc.com"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "splitter",
+        "anchor-navigation-ex",
+        "-fontsettings",
+        "-sharing",
+        "sharing-plus",
+        "baidu",
+        "expandable-chapters",
+        "theme-fexa",
+        "multipart"
+    ],
+    "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "associatedWithSummary": true,
+            "float": {
+                "floatIcon": "fa fa-navicon",
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right",
+                "showLevelIcon": false
+            },
+            "mode": "float",
+            "multipleH1": true,
+            "pageTop": {
+                "level1Icon": "fa fa-hand-o-right",
+                "level2Icon": "fa fa-hand-o-right",
+                "level3Icon": "fa fa-hand-o-right",
+                "showLevelIcon": false
+            },
+            "printLog": false,
+            "showGoTop": true,
+            "showLevel": true
+        },
+        "baidu": {
+            "token": "YOUR TOKEN"
+        },
+        "googledocs": {
+            "frameborder": "10",
+            "height": "500px",
+            "noembed": "new window",
+            "rm": "demo",
+            "width": "100%"
+        },
+        "sharing": {
+            "all": [
+                "douban"
+            ],
+            "douban": true,
+            "facebook": false,
+            "google": false,
+            "hatenaBookmark": false,
+            "instapaper": false,
+            "line": false,
+            "linkedin": false,
+            "messenger": false,
+            "pocket": false,
+            "qq": true,
+            "qzone": true,
+            "stumbleupon": false,
+            "twitter": false,
+            "viber": false,
+            "vk": false,
+            "weibo": true,
+            "whatsapp": true
+        },
+        "theme-fexa": {
+            "favicon": "./favicon.ico",
+            "logo": "./logo.png",
+            "search-placeholder": "\u8f93\u5165\u5173\u952e\u5b57\u641c\u7d22"
+        }
+    },
+    "title": "Sample GitBook",
+    "variables": {
+        "themeFexa": {
+            "nav": [
+                {
+                    "name": "\u9996\u9875",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com"
+                },
+                {
+                    "name": "\u4e91\u70b9\u64ad",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com/front/cloudDemand"
+                },
+                {
+                    "name": "\u4e91\u76f4\u64ad",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com/front/cloudSending"
+                },
+                {
+                    "name": "\u4e91\u8bfe\u5802",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com/front/cloudClassroom"
+                },
+                {
+                    "name": "\u4e91\u52a0\u901f",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com/front/cloudSpeedup"
+                },
+                {
+                    "name": "\u884c\u4e1a\u5e94\u7528",
+                    "target": "_blank",
+                    "url": "https://www.bokecc.com/front/industryApplication"
+                },
+                {
+                    "name": "\u5e2e\u52a9\u4e2d\u5fc3",
+                    "target": "_blank",
+                    "url": "https://doc.bokecc.com"
+                }
+            ]
+        }
+    }
+}
