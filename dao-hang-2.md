@@ -37,7 +37,7 @@
 | [用户流量统计](http://doc.bokecc.com/index.php?c=content&a=list&catid=271) | [视频流量统计](http://doc.bokecc.com/index.php?c=content&a=list&catid=272) | [获获取视频字幕下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=289) |
 | [批量获取视频字幕下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=290) | [搜索视频字幕信息](http://doc.bokecc.com/index.php?c=content&a=list&catid=291) | [搜索用户字幕信息](http://doc.bokecc.com/index.php?c=content&a=list&catid=292) |
 | [获取用户自定义参数播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=293) | [获取视频自定义参数播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=294) | [获取视频播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=295) |
-| [获取用户播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=315) | [获取视频原片下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=322) | </br>  |
+| [获取用户播放记录日志](http://doc.bokecc.com/index.php?c=content&a=list&catid=315) | [获取视频原片下载地址](http://doc.bokecc.com/index.php?c=content&a=list&catid=322) | <br>  |
 
   
 
