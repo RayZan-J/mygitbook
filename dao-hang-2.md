@@ -44,8 +44,7 @@
 
 ### 上传API
 
-| [FLASH视频上传](http://doc.bokecc.com/vod/dev/uploadAPI/upload01/)  | [断点续传](http://doc.bokecc.com/vod/dev/uploadAPI/upload02/)  
-| :--- | :--- |
+<table width="900" style="width:649px;"><tbody><tr><td width="370"><a href="http://doc.bokecc.com/vod/dev/uploadAPI/upload01/" target="_self">FLASH视频上传</a><br></td><td width="370"><a href="http://doc.bokecc.com/vod/dev/uploadAPI/upload02/" target="_self">断点续传</a><br></td></tr></tbody></table>
 
 
   
