@@ -40,7 +40,8 @@
         "baidu",
         "expandable-chapters",
         "theme-fexa",
-        "multipart"
+        "multipart",
+        "footer"
     ],
     "pluginsConfig": {
         "anchor-navigation-ex": {
@@ -100,6 +101,9 @@
             "favicon": "./favicon.ico",
             "logo": "./logo.png",
             "search-placeholder": "\u8f93\u5165\u5173\u952e\u5b57\u641c\u7d22"
+        },
+        "layout": {
+             "footerPath" : "footer.html"
         }
     },
     "title": "Sample GitBook",
