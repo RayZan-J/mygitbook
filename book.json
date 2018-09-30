@@ -62,7 +62,7 @@
             },
             "printLog": false,
             "showGoTop": true,
-            "showLevel": true
+            "showLevel": false
         },
         "baidu": {
             "token": "YOUR TOKEN"
