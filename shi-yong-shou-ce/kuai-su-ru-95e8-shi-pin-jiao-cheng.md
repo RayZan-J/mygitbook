@@ -4,6 +4,8 @@
 
 ## 1.1视频教程
 
+<div class="con_r"><div class="line"></div><div id="post-155" class="post-155 post type-post status-publish format-standard hentry category-userguide"><div class="entry-content"><div class="help_c"><object width="700" height="400" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="src" value="http://union.bokecc.com/flash/list/32769D06D36A524A_20E7B9744915D2E6_list_true_7EBD3FE4306F1035_1/player.swf"><param name="allowfullscreen" value="true"><param name="allowscriptaccess" value="always"><param name="pluginspage" value="http://www.macromedia.com/go/getflashplayer"><embed width="700" height="400" type="application/x-shockwave-flash" src="http://union.bokecc.com/flash/list/32769D06D36A524A_20E7B9744915D2E6_list_true_7EBD3FE4306F1035_1/player.swf" allowfullscreen="true" allowscriptaccess="always" pluginspage="http://www.macromedia.com/go/getflashplayer"></object></div></div><!-- .entry-content --></div><!-- #post-## --></div>
+
 ## 1.2如何获取服务
 
 点击试用，填写相应信息并完成邮箱激活后，您将马上拥有CC视频账户。  
