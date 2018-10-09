@@ -21,8 +21,9 @@
 
 ## 直播专区
 
-* \[PAGE 1\]\(""\)
+* [\[PAGE 1\]\(""\)](zhi-bo-zhuan-qu/page-1.md)
   * [1](chapters/show1/1.md)
+  * 开发者资源
 
 ## 课堂专区
 
