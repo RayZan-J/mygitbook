@@ -1,5 +1,5 @@
 
 
 * [点播](dianbo/)
-* [zhibo](/dianbo)
+* [直播](/dianbo)
 
